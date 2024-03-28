@@ -1,0 +1,7 @@
+C:\Users\marlo\Desktop\Projetos\3 periodo\P.O\TPTPE_3\ex7\bin\Debug\ex7.exe.config
+C:\Users\marlo\Desktop\Projetos\3 periodo\P.O\TPTPE_3\ex7\bin\Debug\ex7.exe
+C:\Users\marlo\Desktop\Projetos\3 periodo\P.O\TPTPE_3\ex7\bin\Debug\ex7.pdb
+C:\Users\marlo\Desktop\Projetos\3 periodo\P.O\TPTPE_3\ex7\obj\Debug\ex7.csproj.AssemblyReference.cache
+C:\Users\marlo\Desktop\Projetos\3 periodo\P.O\TPTPE_3\ex7\obj\Debug\ex7.csproj.CoreCompileInputs.cache
+C:\Users\marlo\Desktop\Projetos\3 periodo\P.O\TPTPE_3\ex7\obj\Debug\ex7.exe
+C:\Users\marlo\Desktop\Projetos\3 periodo\P.O\TPTPE_3\ex7\obj\Debug\ex7.pdb

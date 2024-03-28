@@ -1,0 +1,7 @@
+C:\Users\marlo\Desktop\Projetos\3 periodo\P.O\TPTPE_3\ex9\bin\Debug\ex9.exe.config
+C:\Users\marlo\Desktop\Projetos\3 periodo\P.O\TPTPE_3\ex9\bin\Debug\ex9.exe
+C:\Users\marlo\Desktop\Projetos\3 periodo\P.O\TPTPE_3\ex9\bin\Debug\ex9.pdb
+C:\Users\marlo\Desktop\Projetos\3 periodo\P.O\TPTPE_3\ex9\obj\Debug\ex9.csproj.AssemblyReference.cache
+C:\Users\marlo\Desktop\Projetos\3 periodo\P.O\TPTPE_3\ex9\obj\Debug\ex9.csproj.CoreCompileInputs.cache
+C:\Users\marlo\Desktop\Projetos\3 periodo\P.O\TPTPE_3\ex9\obj\Debug\ex9.exe
+C:\Users\marlo\Desktop\Projetos\3 periodo\P.O\TPTPE_3\ex9\obj\Debug\ex9.pdb
