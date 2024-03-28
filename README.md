@@ -24,7 +24,9 @@ Atv 9: Calculo de Desconto de Carro:<br>
     - Desconto: 10% para modelos anteriores à 2010 e 5% para o contrário; <br><br>
 Atv 10: Conversor de Moedas:<br>
     - Classe que reúne métodos para conversâo de:<br>
+      <p>
         * Real -> Dolar;<br>
         * Dolar -> Real;<br>
         * Real -> Euro;<br>
         * Euro -> Real;<br>
+      </p>
